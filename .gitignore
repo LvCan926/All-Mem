@@ -1,0 +1,33 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments and local configuration
+.env
+.env.*
+.venv/
+venv/
+env/
+*.egg-info/
+
+# Experiment artifacts
+cache/
+results/
+data/
+*.pkl
+*.jsonl
+*.log
+
+# Local paper/manuscript files and vector exports
+3254_All_Mem_Agentic_Lifelong_*.pdf
+figures/*.pdf
+
+# Local agent/sandbox metadata
+.agents/
+.codex/
+
+# Editor and OS files
+.DS_Store
+.idea/
+.vscode/

@@ -5,7 +5,7 @@
 [![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)](#environment-setup)
 [![LoCoMo](https://img.shields.io/badge/Benchmark-LoCoMo-green)](#evaluation)
 [![LongMemEval--s](https://img.shields.io/badge/Benchmark-LongMemEval--s-green)](#evaluation)
-[![License](https://img.shields.io/badge/License-TBD-lightgrey)](#license)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 Code for **["All-Mem: Agentic Lifelong Memory via Dynamic Topology
 Evolution"](https://arxiv.org/abs/2603.19595)**.
@@ -341,4 +341,5 @@ If you use this code or build on All-Mem, please cite the paper:
 
 ## License
 
-The license will be added before the public release.
+This project is released under the MIT License. See [LICENSE](LICENSE) for
+details.
